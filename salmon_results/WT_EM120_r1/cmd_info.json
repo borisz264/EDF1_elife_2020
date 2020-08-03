@@ -1,0 +1,13 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/fastscratch/boris/5.042_tx_assignment/20190927_colombo_target_calls/salmon_indexes/transcripts_index",
+    "libType": "A",
+    "gcBias": [],
+    "seqBias": [],
+    "threads": "48",
+    "mates1": "../FASTQ/7_R1_001.fastq.gz",
+    "mates2": "../FASTQ/7_R2_001.fastq.gz",
+    "validateMappings": [],
+    "output": "salmon_results/WT_EM120_r1",
+    "auxDir": "aux_info"
+}

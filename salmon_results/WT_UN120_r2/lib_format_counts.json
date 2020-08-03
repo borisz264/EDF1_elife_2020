@@ -1,0 +1,21 @@
+{
+    "read_files": "[ ../FASTQ/2_R1_001.fastq.gz, ../FASTQ/2_R2_001.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 19491838,
+    "num_assigned_fragments": 19491838,
+    "num_frags_with_consistent_mappings": 19138153,
+    "num_frags_with_inconsistent_or_orphan_mappings": 353740,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 267,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 19138153,
+    "SF": 49168,
+    "SR": 304305,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
